@@ -20,3 +20,15 @@ div{
     width: auto;
     height: auto;
 }
+
+td,th{
+    border: 1px dashed burlywood;
+    padding: 5px;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
