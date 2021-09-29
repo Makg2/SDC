@@ -2,3 +2,21 @@ h1{
     color: darkmagenta;
     text-align: center;
 }
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: unset;
+    text-decoration:solid ;
+    text-align: center;
+}
+
+div{
+    border: 3px dashed yellowgreen;
+    text-decoration: aqua;
+    text-align: center;
+    font-size: 28px;
+    font-family: cursive;
+    padding: auto;
+    width: auto;
+    height: auto;
+}
