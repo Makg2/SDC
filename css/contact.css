@@ -1,0 +1,12 @@
+#contact{
+    text-align: center;
+    background-color: rgb(100, 20, 138);
+    padding: auto;
+}
+.social{
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 24px;
+    margin: auto;
+}
