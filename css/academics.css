@@ -3,12 +3,20 @@
   color: whitesmoke;
   height: 100vh;
   width:100vh;
-  text-align: center;
-  display: block;
   font-size: 3em;
-  margin-block-start: 0.67em;
-  margin-block-end: 0.67em;
   font-weight: bold;
   background-repeat: no-repeat;
-  align-content: center ;
+  align-content: center;
+  margin-left: 500px;
+}
+table{
+  text-align: center;
+  margin: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+}
+td,th{
+  border: 0px;
+  padding: 5px;
 }

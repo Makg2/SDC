@@ -16,8 +16,7 @@ h3{
 }
 
 #about{
-    border: 3px dashed yellowgreen;
-    text-decoration: aqua;
+    border: 0px dashed yellowgreen;
     text-align: center;
     font-size: 28px;
     font-family: cursive;
@@ -26,17 +25,9 @@ h3{
     height: auto;
 }
 
-td,th{
-    border: 1px dashed burlywood;
-    padding: 5px;
-}
 
-table{
-    text-align: center;
-    border-collapse: collapse;
-    margin-left: auto;
-    margin-right: auto;
-}
+
+
 
 #me{
     padding: 5px;
@@ -50,7 +41,7 @@ table{
 
 
  
-  #hello,#name{
+#hello,#name{
     font-size: 2.5rem;
     font-weight: 700;
     letter-spacing: 1.1rem;
@@ -63,7 +54,7 @@ table{
 }
 
 .intro{
-    background-image: url(../images/back1.jpg);
+    background-image: url(../images/back.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     text-align: center;
@@ -99,4 +90,9 @@ li a{
 .container{
     width:100%;
     margin: auto;
+}
+
+body{
+    background-image: url(../images/bodyback.gif);
+    background-repeat: repeat;
 }
