@@ -3,10 +3,7 @@ h1{
     text-align: center;
     padding: 50px;
 }
-h2{
-    text-align: center;
-    color: whitesmoke;
-}
+
 h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: unset;
@@ -25,10 +22,6 @@ h3{
     height: auto;
 }
 
-
-
-
-
 #me{
     padding: 5px;
     display: block;
@@ -38,9 +31,6 @@ h3{
     border: 1px solid #ddd;
 }
 
-
-
- 
 #hello,#name{
     font-size: 2.5rem;
     font-weight: 700;
@@ -48,6 +38,7 @@ h3{
     color: whitesmoke;
     text-align: center;
 }
+
 .name{
 
     margin: 50%,50%;
@@ -80,17 +71,6 @@ li a{
     text-decoration: none;
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.social{
-    text-align: center;
-    text-decoration: none;
-    color: whitesmoke;
-    font-size: 24px;
-}
-
-.container{
-    width:100%;
-    margin: auto;
 }
 
 body{
