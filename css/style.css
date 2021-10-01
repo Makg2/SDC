@@ -14,7 +14,7 @@ h3{
 
 #about{
     background-image: url(../images/about.jpg);
-    border: 0px dashed yellowgreen;
+    border: 0px;
     text-align: center;
     font-size: 28px;
     font-family: cursive;
@@ -40,17 +40,12 @@ h3{
     text-align: center;
 }
 
-.name{
-
-    margin: 50%,50%;
-}
-
 .intro{
     background-image: url(../images/back1.jpg);
     background-repeat: no-repeat;
-    height: 100vh;
+    /* height: 100%; */
     text-align: center;
-    
+    /* background-size: cover; */
 }
   
 .navbar{
