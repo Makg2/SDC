@@ -13,6 +13,7 @@ h3{
 }
 
 #about{
+    background-image: url(../images/about.jpg);
     border: 0px dashed yellowgreen;
     text-align: center;
     font-size: 28px;
