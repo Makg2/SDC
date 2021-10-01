@@ -54,7 +54,7 @@ h3{
 }
 
 .intro{
-    background-image: url(../images/back.jpg);
+    background-image: url(../images/back1.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     text-align: center;
@@ -63,16 +63,17 @@ h3{
   
 .navbar{
     border-radius: 15px;
-    background-color: rgb(156, 43, 201);
+    background-color: rgb(100, 20, 138);
     padding: 10px;
 }
 
-li{
+.navbar li{
     list-style: none;
     margin: 0%;
     padding: 40px;
     display: inline;
     font-size: 20px;
+    color: whitesmoke;
 }
 
 li a{
@@ -93,6 +94,6 @@ li a{
 }
 
 body{
-    background-image: url(../images/bodyback.gif);
-    background-repeat: repeat;
+    background-color: black;
+    /* background-repeat: repeat; */
 }
