@@ -22,6 +22,7 @@ h3{
     padding: auto;
     width: auto;
     height: auto;
+    background-size: cover;
 }
 
 #me{
@@ -44,9 +45,7 @@ h3{
 .intro{
     background-image: url(../images/back1.jpg);
     background-repeat: no-repeat;
-    /* height: 100%; */
     text-align: center;
-    /* background-size: cover; */
 }
   
 .navbar{
@@ -72,5 +71,5 @@ li a{
 
 body{
     background-color: black;
-    /* background-repeat: repeat; */
+
 }
